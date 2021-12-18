@@ -25,8 +25,7 @@
 
 /*
 	Copy right :suppose not for homework and comercial for security reason.
-	aurthor : Solar_Flank  CN
-	e-mail : 453660288@qq.com
+	
 
 */
 
